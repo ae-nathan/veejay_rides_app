@@ -1,4 +1,4 @@
-# veejay_huawei_clean
+# veejay_rides_clean
 
 A new Flutter project.
 
